@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>투두리스트</title>
+</head>
+<body>
+    <h1>투두리스트</h1>
+    <!-- 제목을 나타낼때 h1 을 많이쓴다 -->
+    <h2>투두리스트</h2>
+    <h6>투두리스트</h6>
+    <!-- h1 2 6 사이즈가 달라짐  -->
+    <div>영역</div>
+    <div>영역2</div>
+    <!-- 영역 표시 -->
+    <p>긴 ~ <span style="color:red">문장</span>을 쓸 때</p>
+    <!-- <p></p> 긴 문장을 쓸때 -->
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
+    <!-- 리스트를 만들고 싶을때 -->
+
+    <input type="text" />
+    <!-- 문자를 받고싶을때 -->
+    <input type="number"/>
+    <!-- 숫자를 받고싶을때 -->
+
+    <button> 버튼 </button>
+    <!-- 누를 수 있는 버튼을 만들고싶을때 -->
+
+    <img src=""/>
+    <!-- 이미지를 가지고 오고싶을때 -->
+    
+
+     
+
+</body>
+</html>
