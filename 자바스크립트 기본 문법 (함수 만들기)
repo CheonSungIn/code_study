@@ -1,0 +1,11 @@
+  <!-- 자바스크립트 시작하기 -->
+    <script>
+      //함수 
+      function x(num1,num2)
+      {
+        return num1+num2;
+      }
+      let y=x(100,200);
+      console.log(y);
+
+    </script>
